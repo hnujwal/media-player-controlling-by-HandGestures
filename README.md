@@ -5,3 +5,4 @@ with the help of this project we can control the video by the hand
 2.mediapipe as mp
 3.numpy as np
 4.pyautogui
+#play any video in background and guest run the code 
